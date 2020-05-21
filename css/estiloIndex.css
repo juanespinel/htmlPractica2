@@ -1,3 +1,17 @@
+body {
+    background-image: url(../img/emilia-home.jpg);
+    background-position-x: right;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-size: 950px;    
+}
+
+.cajaTransp {
+    background-color: rgba(255, 255, 255, alpha);
+}
+
+
+
 h1 {
     color: black;
     font-family: 'Work Sans', sans-serif;
@@ -27,16 +41,4 @@ ul {
     margin-left: 0px;
 }
 
-p {
-    background-color:black;
-    opacity: 1;
-}
-
-body {
-    background-image: url(../img/emilia-home.jpg);
-    background-position-x: right;
-    background-position-y: top;
-    background-repeat: no-repeat;
-    background-size: 800px;
-}
 
